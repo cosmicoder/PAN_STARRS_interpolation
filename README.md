@@ -1,4 +1,4 @@
-# PAN_STARRS_interpolation
+# PAN-STARRS interpolation for Mbol
 Author: Aniket Sanghi
 
 Institution: The University of Texas at Austin
